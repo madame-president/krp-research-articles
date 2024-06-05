@@ -66,5 +66,5 @@ This program has multiple functionalities, including:
 
 ### Details
 
-The functions `get_transactions` and `get_price` are part of a much larger repository, but they serve as a framework reference.
+The functions `get_transactions` and `get_price` are part of a much larger repository, but they serve as reference.
 
