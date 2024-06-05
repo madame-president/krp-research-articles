@@ -24,8 +24,8 @@ Individuals and corporations are now less inclined to run a full node, and rely 
 
 **Internet speed:**
 
-- 264.6 mbps download
-- 211.9 mbps upload
+- 264.6 mbps *download*
+- 211.9 mbps *upload*
 - 7 ms latency
 
 Assuming optimal conditions and no interuptions, the initial sync would take roughly seven hours.
