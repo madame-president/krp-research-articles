@@ -30,6 +30,6 @@ Individuals and corporations are now less inclined to run a full node, and rely 
 
 Assuming optimal conditions and no interuptions, the initial sync would take roughly seven hours.
 
-*Adjusting for 300 kilobyte block size:*
+**Adjusting for 300 kilobyte block size:**
 
 The initial sync would take roughly one hour.
