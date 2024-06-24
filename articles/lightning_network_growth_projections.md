@@ -33,6 +33,7 @@ Please see workbook '3y-lightning-network-stats.xlsx' as reference.
 
     11. **Routing**: LSPs often have well-connected nodes, making them efficient at routing payments through the network.
 
+
 ## Historical and projected growth rates
 
 **To determine if the lightning network is growing, we will consider the following:**
@@ -44,19 +45,20 @@ Please see workbook '3y-lightning-network-stats.xlsx' as reference.
 
 #### Number of Nodes
 
-16. Total # of nodes peaked in 2023, at roughly at 15,400. Currently, there is roughly 13,100 nodes. Extrapolating the historical data of 3 years, we calculated the daily average change to be 0.0293%.
+16. Total # of nodes peaked in 2023, at roughly at 15,400. Currently, there are roughly 13,100 nodes. Extrapolating the historical data of 3 years, we calculated the daily average change to be 0.0293%.
 
 #### Number of Channels
 
-17. Total # of channels also peaked in 2023, at roughly 67,000. Currently, there is roughly 51,000 channels. Extrapolating the historical data of 3 years, we calculated the daily average change to be 0.0209%.
+17. Total # of channels also peaked in 2023, at roughly 67,000. Currently, there are roughly 51,000 channels. Extrapolating the historical data of 3 years, we calculated the daily average change to be 0.0209%.
 
 #### Network Capacity
 
-18. No particular peak has been identified, The volumes from 2021 - 2023 are similar to current network capacity, which is 5,140 bitcoins. The daily average change we calculated is 0.1754%.
+18. No particular peak has been identified, The volumes from 2021 - 2023 are similar to the current network capacity, which is 5,140 bitcoins. The daily average change we calculated is 0.1754%.
 
 #### Development activity
 
 19. Updates to LND, c-lightning, Eclair, and other implementations, as well as new applications and improvements are crucial in order to gain mass adoption. Most of these efforts are done by free-willing developers.
+
 
 ## Growth Analysis for LSPs - 365 days out
 
@@ -68,13 +70,14 @@ Please see workbook '3y-lightning-network-stats.xlsx' as reference.
 
 #### Implications
 
-23. Our calculations are made based on optimistic scenarios. No macro-economic factors are being taken into consideration. This is a very simplistic model, that only takes into account the historical 3-year data we used as input.
+23. Our calculations are made based on optimistic scenarios. No macroeconomic factors are being taken into consideration. This is a very simplistic model, that only takes into account the historical 3-year data we used as input.
 
 24. While it appears that the network capacity is growing, it seems that the centralization of nodes on lightning is consolidating. It is very hard to determine if the node is operated by an entity that acts as an LSP, or if it's simply an individual.
 
+
 ## Conclusion
 
-25. LSPs profitability is determined by the number of users who use their node to make payments. As of today, the Lightning network growth is conservative, some what stagnant. Using our daily averages, we can hypothesize that the projected number of nodes and channels will not surpass the peak of 2023 within the next year.
+25. LSPs profitability is determined by the number of users who use their node to make payments. As of today, the Lightning network growth is conservative, and somewhat stagnant. Using our daily averages, we can hypothesize that the projected number of nodes and channels will not surpass the peak of 2023 within the next year.
 
 
 
