@@ -1,7 +1,5 @@
 # Bit-zero: Mining Model Memo
 
-## This memo contains a description of the worksheets, formulas, variables and methodologies used.
-
 ### Worksheets
 
 1. **Inventory** contains miner model, miner hashrate and miner power consumption
