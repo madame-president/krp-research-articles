@@ -1,6 +1,6 @@
 # Overview
 
-In this article I make a compelling case that explains why **blockchain without proof-of-work is nothing** *(well, technically not nothing, but simply a database)*.
+In this article, I make a compelling case that explains why **blockchain without proof-of-work is nothing** *(well, technically not nothing, but simply a database)*.
 
 My inspiration to write this comes from a research papaer I found from 1992 titled *Pricing via Processing or Combatting Junk Mail* by Cynthia Dwork and Moni Naor.
 
@@ -10,7 +10,7 @@ In the realm of DLT *(distributed ledger technologies)*, blockchain has emerged 
 
 ## Explanation
 
-1. At its core, a blockchain is simply a chain of data blocks containing more data within, where each block is linked to the previous one through cryptographic hashes. The true innovations lies **not** in this structure, but in how a network reaches consensus on the state of the ledger *(data block)*.
+1. Blockchain is simply a chain of data blocks containing more data within, where each block is linked to the previous one through cryptographic hashes. The true innovations lies **not** in this structure, but in how a network reaches consensus on the state of the ledger *(data block)*.
 
 2. Dwork and Naor created a method called *Pricing Function*, which paved the way to what we call proof-of-work today. The paper describes this pricing function as a method to combat junk mail. Where the pricing function serves as the consensus mechanism. Proof-of-work requires participants to perfom computational tasks to add a new block, and therefore, making it economically infeasible to alter the blockchain's history.
 
