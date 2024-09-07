@@ -4,7 +4,7 @@ The bitcoin whitepaper describes a p-2-p cash system that does not require a fin
 
 ## Interpretation
 
-The whole value of bitcoin is based upon it's decentralized network. Decentralization, therefore, can be measured by the number of full nodes veryfing transactions.
+The whole value of bitcoin is based upon its decentralized network. Decentralization, therefore, can be measured by the number of full nodes verifying transactions.
 
 ## Proposal
 
@@ -28,8 +28,13 @@ Individuals and corporations are now less inclined to run a full node, and rely 
 - 211.9 mbps *upload*
 - 7 ms latency
 
-Assuming optimal conditions and no interuptions, the initial sync would take roughly seven hours.
+The initial sync would take roughly seven hours assuming optimal conditions and no interruptions.
 
 **Adjusting for 300 kilobyte block size:**
 
 The initial sync would take roughly one hour.
+
+### Author
+
+Norma Escobar
+*nescobar@krpgroup.com*
