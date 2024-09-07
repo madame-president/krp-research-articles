@@ -19,3 +19,8 @@ In the realm of DLT *(distributed ledger technologies)*, blockchain has emerged 
 4. Remove this computational barrier, and you're left with a design architecture where data can be change with relative ease, much like a traditional database.
 
 5. Goes without saying, but I will say it anyways, that the absence of proof-of-work also eliminates the decentralized nature of creating blocks. Under proof-of-work, any participant can potentially add a new block to the chain by solving the computational task, ensuring a fair system. Without this, block creating can be controlled by a central party, effectively turning the blockchain into a permissioned database.
+
+### Author
+
+Norma Escobar
+*nescobar@krpgroup.com*
