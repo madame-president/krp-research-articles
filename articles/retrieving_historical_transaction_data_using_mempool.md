@@ -66,5 +66,10 @@ This program has multiple functionalities, including:
 
 ### Details
 
-The functions `get_transactions` and `get_price` are part of a much larger repository, but they serve as reference.
+The functions `get_transactions` and `get_price` are part of a much larger repository, but they serve as references.
+
+### Author
+
+Norma Escobar
+*nescobar@krpgroup.com*
 
